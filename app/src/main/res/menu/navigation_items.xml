@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/actionProfile"
+        android:title="@string/user_profile"
+        android:icon="@drawable/ic_profile" />
+    <item android:id="@+id/actionToWatchList"
+        android:title="@string/to_watch_list"
+        android:icon="@drawable/ic_to_watch" />
+    <item android:id="@+id/actionWatchedList"
+        android:title="@string/watched_list"
+        android:icon="@drawable/ic_watched" />
+    <item android:id="@+id/actionCalendar"
+        android:title="@string/calendar"
+        android:icon="@drawable/ic_calendar" />
+</menu>

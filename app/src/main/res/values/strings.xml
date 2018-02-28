@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TMTVSO</string>
+    <string name="full_app_name">The Movie Tv Shows Organizer</string>
+
+    <string name="tmdb_api_key">eee049344d90e9bd7205c38da353d3b1</string>
+
+    <string name="info_title_01">Synopsis</string>
+    <string name="info_title_02">Equipe</string>
+    <string name="info_title_03">Casting</string>
+    <string name="movie_poster_description">Poster du film</string>
+    <string name="profile_picture_description">Image de profil</string>
+    <string name="text_movies_button">Films</string>
+    <string name="text_TV_shows_button">Séries</string>
+    <string name="text_reviews_button">Critiques</string>
+    <string name="text_stats_button">Stats</string>
+    <string name="favorites">Favoris</string>
+
+    <string name="user_profile">Profil</string>
+    <string name="to_watch_list">A voir</string>
+    <string name="watched_list">Vus</string>
+    <string name="calendar">Calendrier</string>
+
+    <string name="add_to_watched_list">Ajouter à la liste vus</string>
+    <string name="add_to_to_watch_list">Ajouter à la liste à voir</string>
+    <string name="search_hint">Recherche par titre</string>
+
+    <item name="MOVIE_TAG" type="id" />
+    <item name="VIEWHOLDER_TAG" type="id" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
